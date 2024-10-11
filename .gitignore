@@ -1,0 +1,4 @@
+.history/
+.venv/
+.hintrc
+__pycache__/
